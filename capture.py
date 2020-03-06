@@ -19,5 +19,5 @@ while(True):
 
 
 
-cap.realse()
+cap.release()
 cv2.destroyAllWindows()
